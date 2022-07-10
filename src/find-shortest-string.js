@@ -9,6 +9,7 @@
  */
 function findShortestString(
 stringArr
+
 )
 { const shortestString = stringArr[0]
     for (let str of stringArr) {
